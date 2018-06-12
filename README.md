@@ -2,4 +2,5 @@
 
 # datasets
 
-![alt text](https://raw.githubusercontent.com/vdevmcitylp/datasets/master/Images/Corners.jpg)
+
+<img src="https://raw.githubusercontent.com/vdevmcitylp/datasets/master/Images/Corners.jpg" width="48">
